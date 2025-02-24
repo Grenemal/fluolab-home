@@ -1,8 +1,18 @@
 [
   {
+    "icon": "Compass",
+    "name": "导航",
+    "link": "https://nav.fluolab.cn/"
+  },
+  {
     "icon": "Blog",
     "name": "博客",
     "link": "https://www.fluolab.cn/"
+  },
+  {
+    "icon": "Person16Regular",
+    "name": "个人简历",
+    "link": "https://cv.fluolab.cn/"
   },
   {
     "icon": "Cloud",
@@ -13,11 +23,6 @@
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.fluolab.cn/"
   },
   {
     "icon": "Book",
