@@ -5,18 +5,14 @@
     "link": "https://nav.fluolab.cn/"
   },
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.fluolab.cn/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "个人简历",
-    "link": "https://cv.fluolab.cn/"
-  },
-  {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://top.fluolab.cn/"
+  },
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.fluolab.cn/"
   }
+
 ]
