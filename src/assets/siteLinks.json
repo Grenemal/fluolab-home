@@ -15,18 +15,8 @@
     "link": "https://cv.fluolab.cn/"
   },
   {
-    "icon": "Cloud",
-    "name": "今日热点",
-    "link": "https://top.fluolab.cn/"
-  },
-  {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://top.fluolab.cn/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
   }
 ]
