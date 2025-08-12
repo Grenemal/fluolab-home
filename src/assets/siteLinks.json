@@ -13,6 +13,10 @@
     "icon": "Blog",
     "name": "荧光小站",
     "link": "https://blog.fluolab.cn/"
+  },
+  {
+    "icon": "Blog",
+    "name": "学术主页",
+    "link": "https://academic.fluolab.cn/"
   }
-
 ]
