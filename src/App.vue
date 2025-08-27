@@ -2,10 +2,6 @@
   <!-- 加载 -->
   <Loading /> 
   <!-- 壁纸 -->
-  <div>
-    <!-- Other homepage content -->
-    <SearchBox />
-  </div>
   <Background @loadComplete="loadComplete" />
   <!-- 主界面 -->
   <Transition name="fade" mode="out-in">
