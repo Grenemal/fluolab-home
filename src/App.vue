@@ -1,7 +1,11 @@
 <template>
   <!-- 加载 -->
-  <Loading />
+  <Loading /> 
   <!-- 壁纸 -->
+  <div>
+    <!-- Other homepage content -->
+    <SearchBox />
+  </div>
   <Background @loadComplete="loadComplete" />
   <!-- 主界面 -->
   <Transition name="fade" mode="out-in">
@@ -47,6 +51,7 @@ import Box from "@/views/Box/index.vue";
 import MoreSet from "@/views/MoreSet/index.vue";
 import cursorInit from "@/utils/cursor.js";
 import config from "@/../package.json";
+import SearchBox from "@/components/SearchBox.vue";
 
 const store = mainStore();
 
