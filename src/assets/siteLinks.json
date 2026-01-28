@@ -19,4 +19,9 @@
     "name": "学术主页",
     "link": "https://academic.fluolab.cn/"
   }
+  {
+    "icon": "Book",
+    "name": "AIE百科",
+    "link": "https://wiki.fluolab.cn/"
+  }
 ]
